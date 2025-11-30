@@ -8,7 +8,7 @@
 &lt;li&gt;Public repository: &lt;code&gt;username.github.io&lt;/code&gt; → for generated static files via GitHub Pages&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;💡 Tip : Public repository must already exist before deployment.&lt;/p&gt;</description></item><item><title>How to Set Up V2ray Server</title><link>https://liftctrl.github.io/posts/2025-10-09-how-to-set-up-v2ray-server/</link><pubDate>Thu, 09 Oct 2025 22:46:05 +0800</pubDate><guid>https://liftctrl.github.io/posts/2025-10-09-how-to-set-up-v2ray-server/</guid><description>&lt;p&gt;This guide explains how to deploy &lt;strong&gt;V2ray + WebSocket + TLS + Cloudflare CDN + Warp&lt;/strong&gt;, suitable for users in China who want stable, encrypted international internet access while hiding their VPS IP.&lt;/p&gt;
+&lt;p&gt;💡 Tip : Public repository must already exist before deployment.&lt;/p&gt;</description></item><item><title>How to Set Up v2ray Server</title><link>https://liftctrl.github.io/posts/2025-10-09-how-to-set-up-v2ray-server/</link><pubDate>Thu, 09 Oct 2025 22:46:05 +0800</pubDate><guid>https://liftctrl.github.io/posts/2025-10-09-how-to-set-up-v2ray-server/</guid><description>&lt;p&gt;This guide explains how to deploy &lt;strong&gt;v2ray + WebSocket + TLS + Cloudflare CDN + Warp&lt;/strong&gt;, suitable for users in China who want stable, encrypted international internet access while hiding their VPS IP.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="1-preparation"&gt;1. Preparation&lt;/h2&gt;
 &lt;h3 id="11-vps"&gt;1.1 VPS&lt;/h3&gt;
