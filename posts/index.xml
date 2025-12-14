@@ -4,7 +4,6 @@
 &lt;h3 id="11-installation-usb"&gt;1.1 Installation USB&lt;/h3&gt;
 &lt;p&gt;Write Arch Linux ISO to a USB drive:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo dd &lt;span style="color:#66d9ef"&gt;if&lt;/span&gt;&lt;span style="color:#f92672"&gt;=&lt;/span&gt;archlinux-2025.iso of&lt;span style="color:#f92672"&gt;=&lt;/span&gt;/dev/sdX bs&lt;span style="color:#f92672"&gt;=&lt;/span&gt;4M status&lt;span style="color:#f92672"&gt;=&lt;/span&gt;progress oflag&lt;span style="color:#f92672"&gt;=&lt;/span&gt;sync
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sync
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
 &lt;p&gt;💡 Tips:&lt;/p&gt;
 &lt;ul&gt;
